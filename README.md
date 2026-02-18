@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Analista de datos recibido en CoderHouse, actualmente estudio Ciencia de datos y busco oportunidades laborales
+Muy buenas, me llamo Cristian Di Giacomo, soy Analista de datos recibido en CoderHouse, actualmente estudio Ciencia de datos y busco oportunidades laborales.
 
 
 # 💻 Tech Stack:
